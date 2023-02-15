@@ -14,8 +14,8 @@
   </a>
 </p>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=birsel-epik&show_icons=true&theme=great-gatsby&count_private=true" alt="birsel-epik" />
-
+  
+<p><img align="center" width="410" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=birsel-epik&show_icons=true&locale=en&layout=compact&theme=radical" alt="birsel-epik" /></p>
 
 <p><img align="left" width="410" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=birsel-epik&show_icons=true&theme=radical" alt="birsel-epik" /></p>
 
