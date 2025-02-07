@@ -23,4 +23,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birsel-epik&label=Profile%20views&color=0e75b6&style=flat" alt="birsel-epik" /> </p>
 
-<p><img src="https://streak-stats.demolab.com?birsel-epik=&theme=neon-palenight&hide_border=true&border_radius=0" alt="Birsel Epik - GitHub " /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=birsel-epik&theme=neon-palenight&hide_border=true&border_radius=0" alt="Birsel EPİK - GitHub /></a></p>
