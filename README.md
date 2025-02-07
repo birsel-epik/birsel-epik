@@ -9,7 +9,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,javascript,jquery,materialui,bootstrap,tailwind,html,css,sass,mssql,mysql,postgres,mongodb,postman,git,github,wordpress,ai,ps,figma,visualstudio,vscode,webstorm"/>
+    <img src="https://skillicons.dev/icons?i=angular,ts,javascript,jquery,nodejs,express,materialui,bootstrap,tailwind,html,css,sass,mysql,postgres,mongodb,postman,git,github,gitlab,wordpress,ai,ps,figma,visualstudio,vscode,webstorm,firebase,cloudflare,netlify,notion"/>
   </a>
 </p>
 
