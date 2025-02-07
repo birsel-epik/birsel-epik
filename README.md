@@ -15,9 +15,9 @@
 
 <hr>
 
-<p><img align="right" width="410" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=birsel-epik&show_icons=true&locale=en&layout=compact&theme=radical" alt="birsel-epik" /></p> 
+<p><img align="left" width="410" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=birsel-epik&show_icons=true&locale=en&layout=compact&theme=radical" alt="birsel-epik" /></p> 
 
-<p><img  align="left" src="https://komarev.com/ghpvc/?username=birsel-epik&label=Profile%20views&color=0e75b6&style=flat" alt="birsel-epik" /> </p>
+<p><img align="right" src="https://komarev.com/ghpvc/?username=birsel-epik&label=Profile%20views&color=0e75b6&style=flat" alt="birsel-epik" /> </p>
 
 <p><img align="left" width="410" height="165" src="https://github-readme-stats.vercel.app/api?username=birsel-epik&show_icons=true&locale=en&theme=radical" alt="birsel-epik" /></p>
 
