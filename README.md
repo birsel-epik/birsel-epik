@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Birsel</h1>
  <h3 align="center">A passionate FrontEnd Developer | UI & UX Designer from Turkey</h3>
-<p align="center">🔭 I’m currently working on **Angular**</p>
+<p align="center">🔭 I am a technology enthusiast</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=birsel-epik&theme=onedark&column=7" alt="birsel-epik" /></a> </p>
 
