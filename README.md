@@ -15,7 +15,7 @@ Hi 👋, I'm Birsel<br>A passionate Frontend Developer | UI/UX Designer from Tur
 # 📊 GitHub Stats:
 <p><img align="left" width="400" height="200" margin-bottom="20" src="https://github-readme-stats.vercel.app/api?username=birsel-epik&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="birsel-epik" /></p>
 <p><img align="right" width="400" height="200" margin-bottom="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birsel-epik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="birsel-epik" /></p>
-<p><img align="center" width="500" src="https://nirzak-streak-stats.vercel.app/?user=birsel-epik&theme=dark&hide_border=false" alt="birsel-epik" /></p>
+<p><img align="center" width="450" src="https://nirzak-streak-stats.vercel.app/?user=birsel-epik&theme=dark&hide_border=false" alt="birsel-epik" /></p>
 
 
 ## 🏆 GitHub Trophies
